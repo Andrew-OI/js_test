@@ -3,8 +3,12 @@
     "version": "1.0.0",
     "description": "demo",
     "author": "",
-    "license": "ISC",    
-    "dependencies": {},
-    "devDependencies": {},
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.17.11"
+    },
+    "devDependencies": {
+        "randomstring": "^1.1.5"
+    },
     "scripts": {}
-  }
+}
